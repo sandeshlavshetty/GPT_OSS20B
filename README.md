@@ -10,7 +10,7 @@
 **Theme:** Space Technology
 **Category:** Software
 **Team:** Solution_Architects (ID: 79440)
-**Prototype/Demo Link:** [Watch Here](#)
+**Prototype/Demo Link:** [Watch Here](https://youtu.be/y-UwhRt8GXo)
 **Code Base:** [GitHub Repository](https://github.com/sandeshlavshetty/GPT_OSS20B.git)
 
 ---
@@ -152,7 +152,7 @@ The training process is implemented in **`Final_training_script (1).ipynb`**, co
 
 ## 📺 Demo & Resources
 
-* **Prototype/Demo:** [Watch Here](#)
+* **Prototype/Demo:** [Watch Here](https://youtu.be/y-UwhRt8GXo)
 * **Code Base:** [GitHub Repository](https://github.com/sandeshlavshetty/GPT_OSS20B.git)
 
 ---
